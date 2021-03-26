@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lichengpeng/toy/InputGenerator/InputGenerator.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+random
+-
+ctime
+-
+stdio.h
+-
+string.h
+-
+getopt.h
+-
+sstream
+-
+
